@@ -77,7 +77,7 @@ body{
             rgba(58,42,36,0.45),
             rgba(58,42,36,0.45)
         ),
-        url("/me.jpg.jpeg");
+        url("me.jpg.jpeg");
 
     background-size:90%;
     background-position:center;
